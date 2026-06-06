@@ -1,3 +1,2 @@
 # review-authenticity-detection
-NLP-based detection of authentic and synthetic Amazon reviews. 
-Capstone project for Data 144: Data Mining and Analytics @ UC Berkeley. 
+Designed and evaluated machine learning models for Amazon review authenticity detection, leveraging NLP, feature engineering, and predictive analytics to distinguish human-written from AI-generated content. Capstone project for Data 144: Data Mining and Analytics at UC Berkeley.
